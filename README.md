@@ -1,2 +1,3 @@
 # happy-easter-2026
-Feliz Páscoa page built with Next.js
+
+A clean and modern Next.js page that says “Feliz Páscoa” in Portuguese.
